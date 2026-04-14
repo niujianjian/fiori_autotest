@@ -1,0 +1,7 @@
+sapui5-autotest-template/node_modules/
+sapui5-autotest-template/dist/
+sapui5-autotest-template/package-lock.json
+sapui5-testing-demo/node_modules/
+sapui5-testing-demo/dist/
+sapui5-testing-demo/package-lock.json
+npm-debug.log*
